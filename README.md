@@ -1,11 +1,5 @@
 # Theory of Computation - Programming Assignment #2
 
-**Author:** Zhongyu Xie  
-**Course:** Theory of Computation  
-**Date:** April 10, 2025
-
----
-
 ## File Structure
 
 ### `decoding.py`
